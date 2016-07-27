@@ -15,6 +15,7 @@ group :development, :test do
 end
 
 group :development do
+  gem 'awesome_print'
   gem 'capistrano-rails'
   gem 'listen', '~> 3.0.5'
   gem 'spring'

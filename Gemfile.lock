@@ -46,6 +46,7 @@ GEM
     airbrussh (1.1.0)
       sshkit (>= 1.6.1, != 1.7.0)
     arel (7.1.0)
+    awesome_print (1.7.0)
     builder (3.2.2)
     byebug (9.0.5)
     capistrano (3.6.0)
@@ -156,6 +157,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  awesome_print
   byebug
   capistrano-rails
   jbuilder (~> 2.5)
