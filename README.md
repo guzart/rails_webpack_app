@@ -26,3 +26,7 @@ Things you may want to cover:
 ## TODO:
 
 * https://github.com/jonathantneal/sanitize.css
+
+## REFERENCES:
+
+* Railtie: https://github.com/rails/sprockets-rails/blob/master/lib/sprockets/railtie.rb

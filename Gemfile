@@ -8,6 +8,7 @@ gem 'puma', '~> 3.0'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
+gem 'webpack', path: 'vendor/webpack'
 
 group :development, :test do
   gem 'byebug', platform: :mri
