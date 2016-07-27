@@ -1,5 +1,6 @@
 require 'test_helper'
 
+#:nodoc:
 class DashboardControllerTest < ActionDispatch::IntegrationTest
   test 'should get index' do
     get dashboard_index_url
