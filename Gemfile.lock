@@ -1,7 +1,7 @@
 PATH
-  remote: vendor/webpack
+  remote: vendor/spiral-rails
   specs:
-    webpack (0.1.0)
+    spiral (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -165,11 +165,11 @@ DEPENDENCIES
   pg (~> 0.18)
   puma (~> 3.0)
   rails (~> 5.0.0)
+  spiral!
   spring
   spring-watcher-listen (~> 2.0.0)
   tzinfo-data
   web-console
-  webpack!
 
 RUBY VERSION
    ruby 2.3.1p112

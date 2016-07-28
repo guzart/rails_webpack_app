@@ -1,17 +1,17 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'webpack/version'
+require 'spiral/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'webpack'
-  spec.version       = Webpack::VERSION
+  spec.name          = 'spiral'
+  spec.version       = Spiral::VERSION
   spec.authors       = ['Arturo Guzman']
   spec.email         = ['arturo@guzart.com']
 
-  spec.summary       = 'Railtie to use webpack as an asset manager'
-  spec.description   = 'Railtie to use webpack as an asset manager'
-  spec.homepage      = 'https://github.com/guzart/rails_webpack_app/tree/master/vendor/webpack'
+  spec.summary       = 'Railtie to use spiral as an asset manager'
+  spec.description   = 'Railtie to use spiral as an asset manager'
+  spec.homepage      = 'https://github.com/guzart/rails_webpack_app/tree/master/vendor/spiral'
   spec.license       = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
