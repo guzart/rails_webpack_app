@@ -1,7 +1,7 @@
 PATH
   remote: vendor/spiral-rails
   specs:
-    spiral (0.1.0)
+    spiral-rails (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -165,7 +165,7 @@ DEPENDENCIES
   pg (~> 0.18)
   puma (~> 3.0)
   rails (~> 5.0.0)
-  spiral!
+  spiral-rails!
   spring
   spring-watcher-listen (~> 2.0.0)
   tzinfo-data
