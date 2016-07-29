@@ -1,5 +1,4 @@
 
-const Spiral = {
-};
+const Spiral = {};
 
 module.exports = Spiral;
