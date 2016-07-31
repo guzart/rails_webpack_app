@@ -1,6 +1,6 @@
 
 module.exports = {
-  entries: {
-    curling: 'app/assets/curling/index.js',
-  },
+  entries: [
+    '~app/assets/my_app/index.js',
+  ],
 };
