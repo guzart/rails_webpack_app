@@ -8,7 +8,7 @@ gem 'puma', '~> 3.0'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
-gem 'spiral-rails', require: 'spiral', path: 'vendor/spiral-rails'
+gem 'hauler', path: 'vendor/hauler'
 
 group :development, :test do
   gem 'byebug', platform: :mri

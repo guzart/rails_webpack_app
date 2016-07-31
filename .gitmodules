@@ -1,3 +1,6 @@
 [submodule "vendor/spiral-rails"]
 	path = vendor/spiral-rails
 	url = git@github.com:guzart/spiral-rails.git
+[submodule "vendor/hauler"]
+	path = vendor/hauler
+	url = git@github.com:guzart/hauler.git

@@ -3,5 +3,5 @@
   .rbenv-vars
   tmp/restart.txt
   tmp/caching-dev.txt
-  vendor/spiral/lib
+  vendor/hauler/lib
 ).each { |path| Spring.watch(path) }

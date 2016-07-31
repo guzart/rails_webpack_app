@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "start": "./node_modules/spiral-rails/bin/dev-server.js"
+    "start": "./node_modules/hauler/bin/dev-server.js"
   },
   "dependencies": {
     "babel-polyfill": "^6.9.1",
