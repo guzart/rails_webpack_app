@@ -165,12 +165,12 @@ DEPENDENCIES
   byebug
   capistrano-rails
   dotenv-rails
+  hauler!
   jbuilder (~> 2.5)
   listen (~> 3.0.5)
   pg (~> 0.18)
   puma (~> 3.0)
   rails (~> 5.0.0)
-  hauler!
   spring
   spring-watcher-listen (~> 2.0.0)
   tzinfo-data
