@@ -4,11 +4,11 @@
     <title>RailsWebpackApp</title>
     <%= csrf_meta_tags %>
 
-    <%= hauler_stylesheet_link_tag 'curling', media: 'all' %>
+    <%= stylesheet_link_tag 'curling', media: 'all' %>
   </head>
 
   <body>
     <%= yield %>
-    <%= hauler_javascript_include_tag 'curling' %>
+    <%= javascript_include_tag 'curling' %>
   </body>
 </html>
